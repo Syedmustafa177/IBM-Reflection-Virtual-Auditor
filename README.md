@@ -23,7 +23,7 @@ The IBM Reflection Virtual Auditor is a VBA-based solution designed to audit adj
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/ibm-reflection-virtual-auditor.git
+   git clone https://github.com/Syedmustafa177/ibm-reflection-virtual-auditor.git
    ```
 2. **Open the VBA Project**
    - Open the VBA Editor in Excel (Alt + F11).
