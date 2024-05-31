@@ -60,6 +60,6 @@ The IBM Reflection Virtual Auditor is a VBA-based solution designed to audit adj
 
 ## License
 
-This project is licensed under the MIT License.
+Due to company policies, we are unable to disclose the specifics of the project.
 
 
